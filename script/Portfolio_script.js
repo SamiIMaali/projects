@@ -34,14 +34,14 @@ document.addEventListener('DOMContentLoaded', function () {
   if (pdfLink) {
     pdfLink.addEventListener('click', function (e) {
       e.preventDefault();
-      handleDownload('files/_CV.pdf');
+      handleDownload('https://samiimaali.github.io/projects/CV/CV.pdf');
     });
   }
 
   if (docxLink) {
     docxLink.addEventListener('click', function (e) {
       e.preventDefault();
-      handleDownload('files/_CV.docx');
+      handleDownload('https://samiimaali.github.io/projects/CV/CV.docx');
     });
   }
 });
