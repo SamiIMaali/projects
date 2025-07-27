@@ -42,10 +42,13 @@ This repository contains the full source code for my developer portfolio website
 
 ```
 .
-├── Portfolio.html        # Main landing page
-├── styles/               # CSS stylesheets
-├── scripts/              # JavaScript functionality
-├── assets/               # Images and static resources
+├── index.html               # الصفحة الرئيسية للموقع
+├── styles/
+│   └── portfolio_style.css  # ملف تنسيقات CSS
+├── script/
+│   └── portfolio_style.js   # ملف JavaScript الخاص بالموقع
+├── CV.pdf                   # السيرة الذاتية
+└── README.md                # ملف الوصف للمشروع
 ```
 
 
@@ -54,14 +57,3 @@ This repository contains the full source code for my developer portfolio website
 
 Check out the live version of this portfolio here:
 🔗 [My Portfolio Website](https://samiimaali.github.io/projects/)
-
-
- 
-## 📫 Contact
-
-Feel free to connect with me or explore more of my work:
-
-* GitHub: 
-* LinkedIn: *\[Optional if you want to include it]*
-* Email: *\[Optional if public]*
-
