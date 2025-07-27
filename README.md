@@ -1,4 +1,4 @@
-## 🌐 My Developer Portfolio
+🌐 My Developer Portfolio
 
 Welcome to my personal portfolio repository!
 This site showcases my skills, projects, and development journey as a web developer who enjoys working with Linux (Ubuntu), open-source tools, and modern web technologies.
