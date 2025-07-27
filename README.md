@@ -42,13 +42,13 @@ This repository contains the full source code for my developer portfolio website
 
 ```
 .
-├── index.html               # الصفحة الرئيسية للموقع
+├── index.html               
 ├── styles/
-│   └── portfolio_style.css  # ملف تنسيقات CSS
+│   └── portfolio_style.css  
 ├── script/
-│   └── portfolio_style.js   # ملف JavaScript الخاص بالموقع
-├── CV.pdf                   # السيرة الذاتية
-└── README.md                # ملف الوصف للمشروع
+│   └── portfolio_style.js   
+├── CV.pdf                   
+└── README.md                
 ```
 
 
