@@ -1,25 +1,33 @@
 🌐 My Developer Portfolio
 Welcome to my personal portfolio repository!
-This site showcases my skills, projects, and development journey as a Web Developer who loves working with Linux (Ubuntu), open-source tools, and modern web technologies.
+This site showcases my skills, projects, and development journey as a web developer who enjoys working with Linux (Ubuntu), open-source tools, and modern web technologies.
 
 🚀 About Me
-Hi, I'm a passionate web developer (he/him) with a focus on clean code, performance, and building efficient solutions using Ubuntu-based workflows.
-I enjoy experimenting with backend tools, automating workflows, and contributing to open-source when I can.
+Hi! I'm Sami Maali (he/him), a passionate web developer focused on writing clean code, optimizing performance, and building efficient, scalable solutions using Ubuntu-based workflows.
+I enjoy working with backend tools, automating development tasks, and contributing to open-source whenever possible.
 
 🛠️ Tech Stack
-Languages: HTML, CSS, JavaScript
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js
-Tools: Git, GitHub, Linux (Ubuntu), VS Code
-📁 What’s in this Repo
-This repository contains the source code for my portfolio website:
+Languages
 
-Portfolio.html – Main landing page
-styles/ – CSS files
-scripts/ – JavaScript functionality (if any)
-assets/ – Images and other static resources(files)
-🌍 Live Demo
-You can view the live version of this portfolio at:
-🔗 My Portfolio Website
+HTML
 
-projects/README.md at main · SamiIMaali/projects 
+CSS
+
+JavaScript
+
+Frontend
+
+HTML, CSS, JavaScript
+
+Backend
+
+Node.js
+
+Tools & Environment
+
+Git & GitHub
+
+Linux (Ubuntu)
+
+Visual Studio Code
+
